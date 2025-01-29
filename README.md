@@ -85,12 +85,12 @@ After spending a week working with complex frontend technologies, this project w
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/csharp-basics-exercises.git
+    git clone https://github.com/yourusername/Dumb_and_Vilain_CSharp.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd csharp-basics-exercises
+    cd dumbAndMeanCSharp
     ```
 
 3. Open the project in your favorite IDE (e.g., Visual Studio, Visual Studio Code, etc.).
