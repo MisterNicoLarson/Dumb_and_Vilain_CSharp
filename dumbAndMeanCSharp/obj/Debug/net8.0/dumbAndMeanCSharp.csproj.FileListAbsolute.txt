@@ -1,0 +1,15 @@
+E:\Github\Dumb_and_Vilain_CSharp\dumbAndMeanCSharp\bin\Debug\net8.0\dumbAndMeanCSharp.exe
+E:\Github\Dumb_and_Vilain_CSharp\dumbAndMeanCSharp\bin\Debug\net8.0\dumbAndMeanCSharp.deps.json
+E:\Github\Dumb_and_Vilain_CSharp\dumbAndMeanCSharp\bin\Debug\net8.0\dumbAndMeanCSharp.runtimeconfig.json
+E:\Github\Dumb_and_Vilain_CSharp\dumbAndMeanCSharp\bin\Debug\net8.0\dumbAndMeanCSharp.dll
+E:\Github\Dumb_and_Vilain_CSharp\dumbAndMeanCSharp\bin\Debug\net8.0\dumbAndMeanCSharp.pdb
+E:\Github\Dumb_and_Vilain_CSharp\dumbAndMeanCSharp\obj\Debug\net8.0\dumbAndMeanCSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\Dumb_and_Vilain_CSharp\dumbAndMeanCSharp\obj\Debug\net8.0\dumbAndMeanCSharp.AssemblyInfoInputs.cache
+E:\Github\Dumb_and_Vilain_CSharp\dumbAndMeanCSharp\obj\Debug\net8.0\dumbAndMeanCSharp.AssemblyInfo.cs
+E:\Github\Dumb_and_Vilain_CSharp\dumbAndMeanCSharp\obj\Debug\net8.0\dumbAndMeanCSharp.csproj.CoreCompileInputs.cache
+E:\Github\Dumb_and_Vilain_CSharp\dumbAndMeanCSharp\obj\Debug\net8.0\dumbAndMeanCSharp.sourcelink.json
+E:\Github\Dumb_and_Vilain_CSharp\dumbAndMeanCSharp\obj\Debug\net8.0\dumbAndMeanCSharp.dll
+E:\Github\Dumb_and_Vilain_CSharp\dumbAndMeanCSharp\obj\Debug\net8.0\refint\dumbAndMeanCSharp.dll
+E:\Github\Dumb_and_Vilain_CSharp\dumbAndMeanCSharp\obj\Debug\net8.0\dumbAndMeanCSharp.pdb
+E:\Github\Dumb_and_Vilain_CSharp\dumbAndMeanCSharp\obj\Debug\net8.0\dumbAndMeanCSharp.genruntimeconfig.cache
+E:\Github\Dumb_and_Vilain_CSharp\dumbAndMeanCSharp\obj\Debug\net8.0\ref\dumbAndMeanCSharp.dll
