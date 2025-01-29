@@ -68,7 +68,7 @@ class Program
         // Test countVowelSentence
         Console.WriteLine("Test countVowelSentence:");
         Console.WriteLine($"Count vowels in 'Hello world!' : {dumbString.countVowelSentence("Hello world!")}");
-        Console.WriteLine($"Count vowels in 'AEIOUY' : {dumbString.countVowelSentence("AEIOUY", new List<char> { 'A', 'E', 'I', 'O', 'U', 'Y' })}");
+        Console.WriteLine($"Count vowels in 'AEIOUY' : {dumbString.countVowelSentence("AEIOUY")}");
 
         // Test reverseString
         Console.WriteLine("Test reverseString:");

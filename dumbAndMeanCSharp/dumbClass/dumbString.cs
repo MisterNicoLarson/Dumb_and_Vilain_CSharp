@@ -70,7 +70,7 @@ class dumbString
         {
             listeChar = new List<char> { 'a', 'e', 'i', 'o', 'u', 'y' };
         }
-
+        sentence = sentence.ToLower();
         int nbrVowel = 0;
         foreach (char vowel in listeChar)
         {
