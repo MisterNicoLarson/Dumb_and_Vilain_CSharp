@@ -99,10 +99,6 @@ class dumbString
     public static bool isPalindrome(string word)
     {
         int length = word.Length;
-        if (dumbInt.isEvenOrOdd(length) == "Even")
-        {
-            return false;
-        }
 
         for (int i = 0; i < length / 2; i++)
         {
