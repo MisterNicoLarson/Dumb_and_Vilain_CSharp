@@ -1,11 +1,3 @@
-/*
-    Fusionner deux listes
-    Crée un programme qui fusionne deux listes d'entiers et les retourne sous forme d'une seule liste.
-
-    Trier une liste
-    Crée un programme qui trie les éléments d'une liste d'entiers par ordre croissant.
-*/
-
 class dumbList{
     /// <summary>
     /// Calculates the sum of all elements in a list of integers.
